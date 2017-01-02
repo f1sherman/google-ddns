@@ -1,3 +1,5 @@
+![Travis](https://travis-ci.org/f1sherman/google-ddns.svg?branch=master)
+
 # Google::Ddns
 
 Client for Google DDNS. Designed to be run as a scheduled job on a *nix machine (e.g. cron).
