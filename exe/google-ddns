@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+IN_EXECUTABLE_CONTEXT = true
+
+require "google/ddns"
