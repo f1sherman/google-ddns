@@ -22,9 +22,10 @@ choosing.
 
 ## Development
 
-Fork the repo
-Write tests
-Submit a pull request
+1. Fork the repo
+2. Write tests
+3. Add your feature/fix
+4. Submit a pull request
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
 
