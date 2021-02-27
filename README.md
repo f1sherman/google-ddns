@@ -1,4 +1,4 @@
-![Travis](https://travis-ci.org/f1sherman/google-ddns.svg?branch=master)
+![Travis](https://travis-ci.org/f1sherman/google-ddns.svg?branch=main)
 
 # Google::Ddns
 
@@ -8,7 +8,7 @@ Client for Google DDNS. Designed to be run as a scheduled job on a *nix machine 
 
 ```
 $ gem install google-ddns
-```    
+```
 
 ## Usage
 
